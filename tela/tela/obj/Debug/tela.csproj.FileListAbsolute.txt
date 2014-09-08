@@ -7,3 +7,6 @@ c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela
 c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.csproj.GenerateResource.Cache
 c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.exe
 c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.pdb
+C:\Users\Família\Documents\GitHub\TesteTela\tela\tela\bin\Debug\tela.exe.config
+C:\Users\Família\Documents\GitHub\TesteTela\tela\tela\obj\Debug\tela.exe
+C:\Users\Família\Documents\GitHub\TesteTela\tela\tela\obj\Debug\tela.pdb
