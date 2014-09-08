@@ -1,0 +1,9 @@
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\bin\Debug\TesteX.exe.config
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\bin\Debug\TesteX.exe
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\bin\Debug\TesteX.pdb
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\obj\Debug\TesteX.csprojResolveAssemblyReference.cache
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\obj\Debug\TesteX.Form1.resources
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\obj\Debug\TesteX.Properties.Resources.resources
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\obj\Debug\TesteX.csproj.GenerateResource.Cache
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\obj\Debug\TesteX.exe
+C:\Users\s.alkmim\Documents\GitHub\TesteTela\tela\TesteX\obj\Debug\TesteX.pdb
