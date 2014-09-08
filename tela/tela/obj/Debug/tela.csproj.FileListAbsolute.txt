@@ -1,0 +1,9 @@
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\bin\Debug\tela.exe.config
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\bin\Debug\tela.exe
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\bin\Debug\tela.pdb
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.csprojResolveAssemblyReference.cache
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.Form1.resources
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.Properties.Resources.resources
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.csproj.GenerateResource.Cache
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.exe
+c:\users\s.alkmim\documents\visual studio 2012\Projects\tela\tela\obj\Debug\tela.pdb
